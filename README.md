@@ -1,2 +1,2 @@
 # personalERC20Token
-Created backup personal ERC20 token with admin
+Created backup personal ERC20 token.
